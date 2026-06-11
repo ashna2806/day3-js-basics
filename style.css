@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(49, 49, 49);
+
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fafafa;;
+}
+.completed{
+    text-decoration: line-through;
+    color: grey;
+}
+ul{
+    color: #fafafa;
+}
+p{
+    color: #e44747;
+}
